@@ -1,6 +1,14 @@
 {
-  "pages" : [ {
-    "name" : "95adcfea",
-    "displayName" : "Untitled page"
-  } ]
+  "pages": [
+    {
+      "name": "95adcfea",
+      "displayName": "Untitled page",
+      "pageType": "PAGE_TYPE_CANVAS"
+    },
+    {
+      "name": "f3c78699",
+      "displayName": "Untitled page 1",
+      "pageType": "PAGE_TYPE_CANVAS"
+    }
+  ]
 }
